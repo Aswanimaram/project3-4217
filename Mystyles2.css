@@ -1,0 +1,27 @@
+
+h1{
+    background-color: crimson;
+    color: gold;
+}
+h4{
+    background-color: antiquewhite;
+    color: rgb(0, 60, 255);
+    padding: 15px;
+}
+body{
+    background-color: rgb(255, 17, 154);
+}
+form{
+    background-color: rgb(42, 228, 121);
+    font-size: large;
+    padding: 5000px;
+    margin: 0;
+    padding: 0;
+}
+footer{
+    background-color: #0addecda;
+    color: #fff;
+    text-align:center;
+    margin-top: 40;
+    padding: 5px 0;
+}
